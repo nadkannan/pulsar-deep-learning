@@ -3,7 +3,7 @@ Exploring the use of a neural network machine learning model for classifying can
 
 # Citation
 ******************************************************************************************
-# HTRU2
+HTRU2
 
 Author: Rob Lyon, School of Computer Science & Jodrell Bank Centre for Astrophysics,
 		University of Manchester, Kilburn Building, Oxford Road, Manchester M13 9PL.
