@@ -1,5 +1,5 @@
 # pulsar-deep-learning
-Exploring the use of a neural network machine learning model for classifying candidate pulsar signals using supervised learning techniques. The dataset is from the UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/dataset/372/htru2).
+Exploring the use of a neural network machine learning model for classifying candidate pulsar signals using supervised learning techniques. The dataset is from the UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/dataset/372/htru2). The project was carried out using Orange, an open source data mining, machine learning, and data visualization software. Included in the repository is the Orange project file and the formal report about the methods and results of the model training.
 
 # Citation
 ******************************************************************************************
